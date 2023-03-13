@@ -1,7 +1,7 @@
 #!/user/bin/node
-let valueArg = process.argv;
+const valueArg = process.argv;
 if (valueArg[2] === undefined) {
   console.log('No argument');
-}else {
+} else {
   console.log(valueArg[2]);
 }
