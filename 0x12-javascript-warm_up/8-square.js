@@ -1,4 +1,4 @@
-#!/user/bin/node
+#!/usr/bin/node
 const size = process.argv[2];
 if (size === undefined){
     console.log('Missing size');
