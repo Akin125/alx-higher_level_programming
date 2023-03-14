@@ -9,7 +9,7 @@ The aim of this project is to get started with Javascript, learn all the syntax 
 ## Table of contents
 Files | Description
 ----- | -----------
-[0-javascript_is_amazing.](./0-javascript_is_amazing.js) | JS script that prints “Javascript is amazing”
+[0-javascript_is_amazing.js](./0-javascript_is_amazing.js) | JS script that prints “Javascript is amazing”
 [1-multi_languages.js](./1-multi_languages.js) | JS script that prints 3 lines
 [2-arguments.js](./2-arguments.js) | JS script that prints a message depending of the number of arguments passed
 [3-value_argument.js](./3-value_argument.js) | JS script that prints the first argument passed to it
